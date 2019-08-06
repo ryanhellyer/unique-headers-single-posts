@@ -61,7 +61,7 @@ class Single_Post_Header_Images {
 	 */
 	public function init() {
 
-		if ( ! class_exists( 'Unique_Header_Taxonomy_Header_Images' ) ) {
+		if ( ! class_exists( 'Unique_Headers_Taxonomy_Header_Images' ) ) {
 			return;
 		}
 
